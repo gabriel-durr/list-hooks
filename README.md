@@ -1,7 +1,7 @@
 <h2 id="the_challenge"  align="center">⚡ The Challenge  </h2>
 
 <div align="center">
-  <b><p> Projeto de estudo <sub>HOOKS React</sub></p></b>
+  <b><p> Study project <sub>HOOKS React</sub></p></b>
 </div>
 
 
